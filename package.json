@@ -1,7 +1,7 @@
 {
   "name": "react-webpack-babel-sass-boilerplate",
-  "version": "2.0.0",
-  "description": "Boilerplate React application with Webpack, Babel and Sass.",
+  "version": "1.0.0",
+  "description": "Boiler plate Webpack React",
   "main": "index.js",
   "scripts": {
     "build": "./node_modules/.bin/webpack -p --mode production",
@@ -10,24 +10,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marcnuri-demo/react-webpack-babel-sass-boilerplate.git"
+    "url": ""
   },
   "keywords": [],
   "author": {
-    "name": "Marc Nuri",
+    "name": "Camilo Rivera",
     "url": "https://blog.marcnuri.com"
   },
-  "license": "Apache-2.0",
-  "licenses": [
-    {
-      "type": "Apache-2.0",
-      "url": "http://www.apache.org/licenses/LICENSE-2.0"
-    }
-  ],
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/marcnuri-demo/react-webpack-babel-sass-boilerplate/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/marcnuri-demo/react-webpack-babel-sass-boilerplate#readme",
   "devDependencies": {
     "@babel/core": "7.2.2",
     "@babel/plugin-proposal-object-rest-spread": "7.3.2",
